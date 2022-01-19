@@ -5,3 +5,4 @@ You can even open pull requests in your own repository and merge them yourself. 
 2. Click New pull request.
 3. In the Example Comparisons box, select the branch you made, readme-edits, to compare with main (the original).
 4. Look over your changes in the diffs on the Compare page, make sure they're what you want to submit.
+![Pull Request](/Images/Pull%20Request.png)
